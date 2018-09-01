@@ -1,0 +1,8 @@
+### DragonWen 2018
+### Java template
+*.class
+# ignore eclipse files
+.project
+.classpath
+.settings
+.metadata
