@@ -4,6 +4,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
+<link rel="icon" type="image/x-icon" href="${pageContext.request.contextPath }/images/favicon.ico">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>登陆页面</title>
 <script src="${pageContext.request.contextPath }/js/jquery-3.2.1.js" type="text/javascript"></script>
